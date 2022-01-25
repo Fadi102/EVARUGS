@@ -1,2 +1,2 @@
-# EVARUGS
+# EVARUGS - учебный проект
 web-site
